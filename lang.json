@@ -1,0 +1,212 @@
+{
+    "root/greeting": {
+        "en": "Hello and welcome! My name is Alessandro Casnigo and I'm guy from Italy. I built this site from the ground up using Bootstrap and a lot of love",
+        "it": "Ciao e benvenuto! Mi nome è Alessandro Casnigo e ho creato questo sito utilizzando Bootstrap e molto amore"
+    },
+    "root/full-site": {
+        "en": " Full Site",
+        "it": " Sito completo"
+    },
+    "home/who": {
+        "en": "Who am I",
+        "it": "Chi sono"
+    },
+    "home/who/desc": {
+        "en": "Hi, my real name is Alessandro and i'm an italian dude who just got out of school. I graduated in 2022 in the field of Graphics and Communication so I basically use the Adobe Suite everyday. I also have 4+ years of experience with Blender, VS Code and Git.",
+        "it": "Ciao, il mio vero nome è Alessandro e sono un ragazzo italiano appena uscito da scuola. Ho conseguito la laurea triennale nel 2022 in Grafica e Comunicazione quindi uso praticamente tutti i giorni la Adobe Suite. Ho anche 4+ anni di esperienza con Blender, VS Code e Git."
+    },
+    "home/proj": {
+        "en": "My personal projects",
+        "it": "I miei progetti personali"
+    },
+    "home/proj/desc": {
+        "en": "I translated 5 projects, made an Instagram filter and many other things in my free time!",
+        "it": "Ho tradotto 5 progetti, creato un filtro per Instagram e molte altre cose nel mio tempo libero!"
+    },
+    "home/proj/cta": {
+        "en": "<i class=\"bi bi-book\"></i> See my full portfolio!",
+        "it": "<i class=\"bi bi-book\"></i> Vedi il mio portfolio completo!"
+    },
+    "home/contact": {
+        "en": "Contact me",
+        "it": "Contattami"
+    },
+    "home/contact/desc": {
+        "en": "You can choose different methods to reach out to me.",
+        "it": "Puoi scegliere diversi metodi per contattarmi."
+    },
+    "home/challenge": {
+        "en": "Want a challenge?",
+        "it": "Vuoi una sfida?"
+    },
+    "home/challenge/desc": {
+        "en": "If you are bored and kinda good with computer stuff, try to solve my CTF! I promise it's not super hard.",
+        "it": "Se sei annoiato e abbastanza bravo con le cose informatiche, prova a risolvere il mio CTF! Ti prometto che non è super difficile."
+    },
+    "home/challenge/cta": {
+        "en": "<i class=\"bi bi-bullseye\"></i> Give it a shot!",
+        "it": "<i class=\"bi bi-bullseye\"></i> Provalo!"
+    },
+    "how/operate": {
+        "en": "How do I operate this site?",
+        "it": "Come viene gestito questo sito?"
+    },
+    "how/utilizes": {
+        "en": "This site utilizes:",
+        "it": "Questo sito utilizza:"
+    },
+    "how/analytics": {
+        "en": "<a href='https://counter.dev' class='link-light'>Counter</a> for the web analytics. I use analytics to see the general audience that visits my site. If you have any suggestion on any tool (other than Google Analytics) I would be very glad.",
+        "it": "<a href='https://counter.dev' class='link-light'>Counter</a> per le analisi web. Utilizzo le analisi per vedere il pubblico generale che visita il mio sito. Se hai qualche suggerimento su qualsiasi strumento (diverso da Google Analytics) sarei molto contento."
+    },
+    "how/frontend": {
+        "en": "<a href='https://getbootstrap.com' class='link-light'>Bootstrap</a> for the frontend",
+        "it": "<a href='https://getbootstrap.com' class='link-light'>Bootstrap</a> per il frontend"
+    },
+    "how/hosting": {
+        "en": "<a href='https://pages.github.com' class='link-light'>Github Pages</a> for the hosting",
+        "it": "<a href='https://pages.github.com' class='link-light'>Github Pages</a> per l'hosting"
+    },
+    "how/domain": {
+        "en": "<a href='https://porkbun.com' class='link-light'>Porkbun</a> for the domain",
+        "it": "<a href='https://porkbun.com' class='link-light'>Porkbun</a> per il dominio"
+    },
+    "CTF/greeting": {
+        "en": "Welcome to my CTF!",
+        "it": "Benvenuto nella mia CTF!"
+    },
+    "CTF/download": {
+        "en": "Click here to download the starting point of the CTF!<br>Good luck!",
+        "it": "Clicca qui per scaricare il punto di partenza della CTF!<br>Buona fortuna!"
+    },
+    "CTF/mobile_warning": {
+        "en": "<br>This CTF cannot be done on mobile, but if you really want to try, click the button below to download the starting point of the CTF.<br>",
+        "it": "<br>Questa CTF non può essere fatta su dispositivi mobili, ma se vuoi davvero provare, clicca il pulsante qui sotto per scaricare il punto di partenza.<br>"
+    },
+    "CTF/mobile_warning/download": {
+        "en": "Download anyway",
+        "it": "Scarica lo stesso"
+    },
+    "CTF/FAQ": {
+        "en": "FAQ",
+        "it": "FAQ"
+    },
+    "CTF/FAQ/what": {
+        "en": "What is this CTF... thing?",
+        "it": "Cos'è questa... cosa?"
+    },
+    "CTF/FAQ/what/desc": {
+        "en": "CTF stands for Capture The Flag and, in the computer world, means that you have to find an hidden thing in a file or place. This challenge is not difficult and it's made in a way that makes you learn new and nerdy things. You just have to be smart with the tools you already have and be clever with your prefered search engine.",
+        "it": "CTF sta per Capture The Flag e, nel mondo dei computer, brevemente significa che devi trovare una cosa nascosta in un file o in un posto. Questa sfida non è difficile ed è fatta in modo da farti imparare cose nuove e da nerd. Devi solo essere furbo con gli strumenti che hai già e essere astuto con il tuo motore di ricerca preferito."
+    },
+    "CTF/FAQ/hint": {
+        "en": "Can I get an hint?",
+        "it": "Posso avere un suggerimento?"
+    },
+    "CTF/FAQ/hint/desc": {
+        "en": "Sure, but you have to earn it!<br> <p class='font-monospace user-select-all'>0x6d,0x78,0x3d,0x31,0x6a,0x77,0x4b,0x56,0x6c,0x77,0x6e,0x73,0x69,0x68,0x47,0x34,0x6f,0x62,0x35,0x35</p> Good luck :)",
+        "it": "Certo, ma devi guadagnartelo!<br> <p class='font-monospace user-select-all'>0x6d,0x78,0x3d,0x31,0x6a,0x77,0x4b,0x56,0x6c,0x77,0x6e,0x73,0x69,0x68,0x47,0x34,0x6f,0x62,0x35,0x35</p> Buona fortuna :)"
+    },
+    "portfolio/instagram_filter/title": {
+        "en": "Instagram Filter"
+    },
+    "portfolio/instagram_filter/subtitle": {
+        "en": "Made with Spark AR"
+    },
+    "portfolio/instagram_filter/text": {
+        "en": "I made some Instagram filters with Spark AR. So far my most successful filter has 841.553 impressions and 504.565 opens with 13.251 shares"
+    },
+    "portfolio/instagram_filter/button": {
+        "en": "Go to my effect!"
+    },
+    "portfolio/fedora_33/title": {
+        "en": "Fedora 33"
+    },
+    "portfolio/fedora_33/subtitle": {
+        "en": "Wallpaper contribution"
+    },
+    "portfolio/fedora_33/text": {
+        "en": "I contributed to the development of the default Fedora 33 Wallpaper that gets shown on every machine with a new install of the OS!"
+    },
+    "portfolio/fedora_33/button": {
+        "en": "View the full wallpaper!"
+    },
+    "portfolio/casungo_top/title": {
+        "en": "casungo.top"
+    },
+    "portfolio/casungo_top/subtitle": {
+        "en": "This site"
+    },
+    "portfolio/casungo_top/text": {
+        "en": "I learned a lot making this site from the ground up and I will continue to improve it."
+    },
+    "portfolio/casungo_top/button": {
+        "en": "Check the source code!"
+    },
+    "portfolio/niagara_launcher/title": {
+        "en": "Niagara Launcher"
+    },
+    "portfolio/niagara_launcher/subtitle": {
+        "en": "Translated from english to italian"
+    },
+    "portfolio/niagara_launcher/text": {
+        "en": "I translated more than 4.500 words for this app. I use this launcher on a daily basis and I recommend it to everyone."
+    },
+    "portfolio/niagara_launcher/button": {
+        "en": "Try Niagara Launcher"
+    },
+    "portfolio/rocket_assault/title": {
+        "en": "Rocket Assault"
+    },
+    "portfolio/rocket_assault/subtitle": {
+        "en": "Translated from english to italian"
+    },
+    "portfolio/rocket_assault/text": {
+        "en": "I translated more than 600 words for this game. The game feels like if Rocket League and speedrunning had a baby, really challenging."
+    },
+    "portfolio/rocket_assault/button": {
+        "en": "Buy Rocket Assault!"
+    },
+    "portfolio/1_chance/title": {
+        "en": "1 Chance"
+    },
+    "portfolio/1_chance/subtitle": {
+        "en": "Translated from english to italian"
+    },
+    "portfolio/1_chance/text": {
+        "en": "I translated more than 440 words for this game. Try it, it's free!"
+    },
+    "portfolio/1_chance/button": {
+        "en": "Download 1 Chance!"
+    },
+    "portfolio/carsteroids/title": {
+        "en": "Carsteroids"
+    },
+    "portfolio/carsteroids/subtitle": {
+        "en": "Translated from english to italian"
+    },
+    "portfolio/carsteroids/text": {
+        "en": "I translated more than 3.500 words for this game. A really well made top-down shooter."
+    },
+    "portfolio/carsteroids/button": {
+        "en": "Buy CARSTEROIDS!"
+    },
+    "portfolio/nicegram/title": {
+        "en": "Nicegram"
+    },
+    "portfolio/nicegram/subtitle": {
+        "en": "Community admin for the Italian language group and translator from english to italian"
+    },
+    "portfolio/nicegram/text": {
+        "en": "I translated more than 1.900 words (and counting) for this app! It's an alternative Telegram client with some added features."
+    },
+    "portfolio/nicegram/button": {
+        "en": "Try Nicegram!"
+    },
+    "portfolio/sedbot/title": {
+        "en": "@sedbot"
+    },
+    "portfolio/sedbot/subtitle": {
+        "en": "Telegram Bot"
+    }
+}
